@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "matrixoperations",
+      "request": "launch",
+      "mainClass": "matrixoperations",
+      "projectName": "oops lab_f71f27f6"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "oops lab_f71f27f6"
+    },
+    {
+      "type": "java",
+      "name": "product",
+      "request": "launch",
+      "mainClass": "product",
+      "projectName": "oops lab_f71f27f6"
+    },
+    {
+      "type": "java",
+      "name": "person",
+      "request": "launch",
+      "mainClass": "person",
+      "projectName": "oops lab_f71f27f6"
+    },
+    {
+      "type": "java",
+      "name": "strings",
+      "request": "launch",
+      "mainClass": "strings",
+      "projectName": "oops lab_f71f27f6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/sa/Desktop/Akhil & Jefin S2 Labs/oops lab",
+      "program": "c:/Users/sa/Desktop/Akhil & Jefin S2 Labs/oops lab/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
